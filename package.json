@@ -1,6 +1,6 @@
 {
     "name": "palette",
-    "description": "A Node-RED Project",
+    "description": "A Tekos Project",
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
